@@ -10,6 +10,7 @@
 | Python        |        5      |       5      |
 | C             |        7      |       5      |
 
+---
 
 You'll be asking yourself some stuff like:
 
@@ -18,7 +19,6 @@ You'll be asking yourself some stuff like:
 > _Why should i get into contact?_
 
 > _Why is this handsome person guessing correctly all my questions?_
-
 
 ## I'll answer you the big question:
 ![WHY](https://media.giphy.com/media/GfoDjZTiHuIU/giphy.gif)
@@ -36,11 +36,15 @@ If you don't believe me, here I am on my day-to-day work:
 
 ![PROBLEM SOLVING EXPERIENCE](https://media.giphy.com/media/4mk7fX5uf2q76/giphy.gif)
 
+---
+
 Feeling lucky? Contact me!
 
-e-mail: davidpemo36@hotmail.com
+eMail: davidpemo36@hotmail.com
 
-[twitter]: https://www.twitter.com/dperera42
+Twitter: https://www.twitter.com/dperera42
+
+---
 
 ### THANKS FOR READING
 ![YOU'RE WELCOME](https://media.giphy.com/media/3o6ozBNYRO2QXGRLnq/giphy.gif)
