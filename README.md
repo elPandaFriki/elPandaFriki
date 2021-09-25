@@ -26,7 +26,7 @@ You'll be asking yourself some stuff like:
 You are in front of a:
 1. Seasoned young programmer with several years of **production focused coding experience** behind of him
 2. Person with a career focused on **UI/UX**
-3. Team-work guy with **strong leadership abilities** (Up to 2 persons for now!)
+3. Team-work guy with **strong leadership abilities**
 4. **Proactive man**, always looking on how to improve performance and features
 5. **Boosting capacity and good quality**. For the code part I mean ;)
 
