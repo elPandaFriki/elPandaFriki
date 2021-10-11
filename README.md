@@ -44,6 +44,8 @@ eMail: davidpemo36@hotmail.com
 
 Twitter: https://www.twitter.com/dperera42
 
+![What can i say except](https://media.giphy.com/media/AQRapWCgC7dThyVEYb/giphy.gif)
+
 ---
 
 ### THANKS FOR READING
