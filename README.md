@@ -50,3 +50,6 @@ Twitter: https://www.twitter.com/dperera42
 
 ### THANKS FOR READING
 ![YOU'RE WELCOME](https://media.giphy.com/media/3o6ozBNYRO2QXGRLnq/giphy.gif)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=elPandaFriki&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
