@@ -5,13 +5,13 @@
 
 ### Now that we are on the same page, let's start.
 
-`HELLO WORLD!`
+`HELLO WORLD! I'm David Perera`
 
-I'm David Perera
+:house:&nbsp; I'm from Canary Islands (Spain) but i'm currently living in Madrid (Spain)
+  
+:man_technologist:&nbsp; I'm working for Innerspec Technologies Europe S.L.
 
-I'm a Software Engineer from Canary Islands, Spain
-
-I've been coding for a while now and managed to land a good, comfy place with the following tech stacks
+# Tech Stack
 
 ### Markup
 
