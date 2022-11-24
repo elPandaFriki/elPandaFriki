@@ -157,5 +157,12 @@ Feeling lucky? Contact me!
 ### THANKS FOR READING
 ![YOU'RE WELCOME](https://media.giphy.com/media/3o6ozBNYRO2QXGRLnq/giphy.gif)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=elPandaFriki&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+## <div align="center">Stats</div>
 
+<div align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=elPandaFriki&custom_title=El+Panda+Friki%27s+Github+Stats&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=2e90ff&text_color=f0f0f0&icon_color=2bb389&cache_seconds=1000" />
+
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=elPandaFriki&background=00000000&hide_border=true&stroke=878787&ring=2e90ff&fire=2e90ff&currStreakNum=f0f0f0&sideNums=f0f0f0&currStreakLabel=2bb389&sideLabels=2bb389&dates=dedede" />
+  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=elPandaFriki.elPandaFriki)
+</div>
