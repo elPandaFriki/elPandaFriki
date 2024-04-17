@@ -91,6 +91,7 @@
 ### Management Tools
 
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![GitLab](https://img.shields.io/badge/Gitlab-E34F26?style=for-the-badge&logo=Gitlab&logoColor=white)
 
 ### Browsers
 
