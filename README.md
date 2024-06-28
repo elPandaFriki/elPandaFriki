@@ -9,7 +9,7 @@
 
 :house:&nbsp; I'm from Canary Islands (Spain) but i'm currently living in Madrid (Spain)
   
-:man_technologist:&nbsp; I'm working for Innerspec Technologies Europe S.L.
+:man_technologist:&nbsp; I'm working for CEVA Logistics as Team Lead of Integration Operations
 
 # Tech Stack
 
